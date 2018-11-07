@@ -1,0 +1,75 @@
+html {
+    background-image: url(art/bg.jpg);
+    background-repeat: repeat;
+}
+h1 {
+    width: 100%;
+    text-align: center;
+    font-size: 3em;
+    padding-top: 12px;
+    margin: 0;
+    color: white;
+    text-shadow: 2px 0 0 rgb(217, 31, 38), 4px 0 0 rgb(226, 91, 14), 6px 0 0 rgb(245, 221, 8), 8px 0 0 rgb(5, 148, 68), 10px 0 0 rgb(2, 135, 206), 12px 0 0 rgb(4, 77, 145), 14px 0 0 rgb(42, 21, 113), -2px 0 0 black;
+
+}
+h2 {
+    width: 100%;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 0;
+    text-shadow: -2px -2px 0 white,
+    2px -2px 0 white,
+    -1px 2px 0 white,
+    2px 2px 0 white;
+}
+
+body {
+    font: italic small-caps bold 16px/2 cursive;
+    margin: 0;
+}
+.art {
+    position: absolute;
+    width: 10vw;
+}
+.art.left {
+    left: 10px;
+    top: 10px;
+}
+.art.right {
+    right: 10px;
+    top: 10px;
+}
+.person {
+    width: 20vw; // IF CHANGE THEN CHANGE JS
+    height: 20vw;
+    cursor: pointer;
+    position: relative;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .2s ease-in-out;
+    transition: .2s ease-in-out;
+}
+.person:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    z-index: 999;
+}
+ul.row {
+    left: -1px;
+    position: relative;
+    list-style: none;
+
+    padding: 0;
+    white-space: nowrap;
+}
+.row li{
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
+#VictoryVideo {
+    width: 100%;
+    text-align: center;
+    align-content: center;
+}
