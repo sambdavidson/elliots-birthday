@@ -26,6 +26,7 @@ h2 {
 body {
     font: italic small-caps bold 16px/2 cursive;
     margin: 0;
+    overflow-x: hidden;
 }
 .art {
     position: absolute;
