@@ -6,4 +6,4 @@ A bunch of hacky javascript glues the entire thing together. Going for that geoc
 
 
 Screenshot:
-![screenshot](https://raw.githubusercontent.com/samdamana/elliots-birthday/docs/screenshot.png)
+![screenshot](docs/screenshot.png)
