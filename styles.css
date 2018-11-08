@@ -74,3 +74,9 @@ ul.row {
     text-align: center;
     align-content: center;
 }
+
+#credits {
+    margin-top: -40px;
+    font-size: small;
+    text-align: center;
+}
