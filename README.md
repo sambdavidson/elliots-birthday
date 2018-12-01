@@ -4,7 +4,7 @@
 I threw it together in 2 days totalling about 5 hours of work. Meant as a psuedo-birthday present for my friend Elliot.
 A bunch of hacky javascript glues the entire thing together. Going for that geocities aesthetic.
 
-Some of the faces used are friends. The vast majority of the remaining are taken from Google Images and I don't know them. 
+Some of the faces used are friends. The vast majority are taken from Google Images and I don't know them. 
 
 
 Screenshot:
